@@ -1,0 +1,8 @@
+org\kavus\life1\ntt\CatFactory.class
+org\kavus\life1\ntt\Verb.class
+org\kavus\life1\ntt\AnimalFactory.class
+org\kavus\life1\ntt\DogFactory.class
+org\kavus\life1\ntt\Cat.class
+org\kavus\life1\ntt\Animal.class
+org\kavus\life1\ntt\Dog.class
+org\kavus\life1\tst\Life1Tester.class
